@@ -135,3 +135,6 @@ aside h4{
   justify-content: center;
   text-align: center;
 }
+.show-task p{
+      margin: 0.7rem 0;
+}
